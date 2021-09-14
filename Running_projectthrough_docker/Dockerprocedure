@@ -3,8 +3,8 @@ step2--> start the docker/docker desktop
 step3---> move the directory of the cmd to where the DockerFile of the project is present in ur laptop
 step4--->then build the image for the project
 step5--->we can create a container and then push the generated image into that container or directly run the image which at last creates a container for it by itdelf(Docker)
-step-6-->press "ctrl+c" in ur cmd to terminate the thread or stope the image in docker desktop
-step-7--->go to the browser and generate the http request desired by the project to start
+step-6--->go to the browser and generate the http request desired by the project to start
+step-7-->press "ctrl+c" in ur cmd to terminate the thread or stope the image in docker desktop
 step-8---> finally the output will be recieved
 step-9--> stop the container
 step-10--->remove the container

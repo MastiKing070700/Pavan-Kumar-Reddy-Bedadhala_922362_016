@@ -1,1 +1,13 @@
-
+step1-->click maven install to generate its jar file
+step2---> start the docker
+step3-->open cmd at the directory where the dockerfile of thet project is present
+step4-->create the image for the project with the "name" as mentioned in the ".yaml: file
+step5-->login into docker using cmd and push the image into it
+step6-->open cmd at the directory where the .yaml file is present in the laptop and start the minikube
+step7-->create the pod using ".yaml" file
+step8-->give the port number for the pod to run 
+step9-->open browser and generate the request that starts the project
+step10-->stop the pod and delete the pod
+step11-->stop the minikube
+step12-->clear the image in the docker
+step13--> stop the docker and exit from both cmds

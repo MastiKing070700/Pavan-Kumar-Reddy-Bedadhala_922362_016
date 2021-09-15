@@ -1,0 +1,11 @@
+Bucket naming conventions.
+
+a. No Uppercase
+
+b. No underscore
+
+c. 3 to 63 characters long
+
+d. Must not be an IP
+
+e. Must start and end with a lowercase letter or a number

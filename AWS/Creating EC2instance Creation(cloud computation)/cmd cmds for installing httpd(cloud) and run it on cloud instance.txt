@@ -1,0 +1,5 @@
+commands that need to be executed in the cmd with the directory of where the pem file is present
+
+sudo yum update -y
+sudo yum install httpd -y
+sudo systemctl start httpd

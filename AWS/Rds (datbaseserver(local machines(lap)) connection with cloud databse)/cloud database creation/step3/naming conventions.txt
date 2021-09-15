@@ -1,0 +1,19 @@
+different database options available for you.
+
+Amazon Aurora
+
+ MySQL
+
+MariaDB
+
+PostgreSQL
+
+ Oracle
+
+ Microsoft SQL Server
+
+
+namin conventions
+no uppercase
+no hyphens
+only charachters

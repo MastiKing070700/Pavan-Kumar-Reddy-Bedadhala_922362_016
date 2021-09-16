@@ -1,0 +1,7 @@
+pwd --->to know in which directory we are
+ls -->to know which folders and files are present in the present directory we are in
+cd projectname --> to enter into the project directory
+ls -->to know what files anmd folders are present in ur project
+git add .  ---> connecting to the codestar project repositry source
+git commit -m "name which can identify and track the deployment"  --->to commit the changes done in the project.
+git push --> to start the source phase of the project pipeline
